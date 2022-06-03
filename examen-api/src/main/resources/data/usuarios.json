@@ -1,0 +1,27 @@
+[
+    {
+        "id": 9511,
+        "nombre": "Juan Pérez Pérez",
+        "fechaLogeo": "2022-05-31T16:35:56.782Z"
+    },
+    {
+        "id": 6542,
+        "nombre": "Mario Hernández Torres",
+        "fechaLogeo": "2021-01-01T12:20:50.782Z"
+    },
+    {
+        "id": 1483,
+        "nombre": "Martha Sanchez Cruz",
+        "fechaLogeo": "2022-01-01T08:10:40.782Z"
+    },
+    {
+        "id": 2464,
+        "nombre": "Fernando Juarez Soto",
+        "fechaLogeo": "2022-06-01T20:00:10.782Z"
+    },
+    {
+        "id": 1235,
+        "nombre": "Natalia Fuentes Hernández",
+        "fechaLogeo": "2022-06-02T09:28:00.782Z"
+    }
+]

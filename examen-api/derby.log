@@ -1,0 +1,93 @@
+----------------------------------------------------------------
+Thu Jun 02 13:41:00 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-25b8-8ab7-000004daea48 
+on database directory memory:/Users/Kike/Developer/demo/examen/e2e24ad8-93bb-4c78-9dfc-62143465df1f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/Kike/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/Kike/Developer/demo/examen
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 02 13:42:17 CDT 2022:
+Shutting down instance a816c00e-0181-25b8-8ab7-000004daea48 on database directory memory:/Users/Kike/Developer/demo/examen/e2e24ad8-93bb-4c78-9dfc-62143465df1f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Thu Jun 02 13:42:27 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d8cd40ba-0181-25b8-8ab7-000004daea48 
+on database directory memory:/Users/Kike/Developer/demo/examen/18204d2c-7caa-4ae7-8da6-4443e534789a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/Kike/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/Kike/Developer/demo/examen
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 02 13:42:30 CDT 2022:
+Shutting down instance d8cd40ba-0181-25b8-8ab7-000004daea48 on database directory memory:/Users/Kike/Developer/demo/examen/18204d2c-7caa-4ae7-8da6-4443e534789a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Thu Jun 02 13:42:36 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2667c166-0181-25b8-8ab7-000004daea48 
+on database directory memory:/Users/Kike/Developer/demo/examen/37c43142-2074-4727-91dd-b074c5718eea with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/Kike/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/Kike/Developer/demo/examen
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 02 13:42:40 CDT 2022:
+Shutting down instance 2667c166-0181-25b8-8ab7-000004daea48 on database directory memory:/Users/Kike/Developer/demo/examen/37c43142-2074-4727-91dd-b074c5718eea with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Thu Jun 02 13:42:47 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 00400201-0181-25b8-8ab7-000004daea48 
+on database directory memory:/Users/Kike/Developer/demo/examen/3cee2c4a-1678-4eea-839d-c19ddc3b3773 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/Kike/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/Kike/Developer/demo/examen
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 02 13:42:50 CDT 2022:
+Shutting down instance 00400201-0181-25b8-8ab7-000004daea48 on database directory memory:/Users/Kike/Developer/demo/examen/3cee2c4a-1678-4eea-839d-c19ddc3b3773 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Thu Jun 02 13:42:53 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a4c782ad-0181-25b8-8ab7-000004daea48 
+on database directory memory:/Users/Kike/Developer/demo/examen/41d86e29-9453-4206-814c-ff83ca790360 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/Kike/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/Kike/Developer/demo/examen
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 02 13:50:11 CDT 2022:
+Shutting down instance a4c782ad-0181-25b8-8ab7-000004daea48 on database directory memory:/Users/Kike/Developer/demo/examen/41d86e29-9453-4206-814c-ff83ca790360 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+----------------------------------------------------------------
+Thu Jun 02 13:50:20 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 66330359-0181-25b8-8ab7-000004daea48 
+on database directory memory:/Users/Kike/Developer/demo/examen/c783aa8a-d1b7-4243-8842-036da819cc5c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/Users/Kike/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9.1+1
+user.dir=/Users/Kike/Developer/demo/examen
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
