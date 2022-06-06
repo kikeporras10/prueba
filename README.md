@@ -13,7 +13,7 @@ Expone la información contenida en un arhcivo .json mediante un servicio REST a
 
 
 
-# examen-front (HTML5, Bootstrap 5, Jquery)
+# examen-front (HTML5, Bootstrap 5, JQuery)
 Consume el servicio que expone el proyecto examen-api, mostrando los elementos en una lista con la siguiente información
 - Id
 - nombre
